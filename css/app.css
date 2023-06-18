@@ -259,7 +259,7 @@ body {
 }
 .seccion .h3 {
   font-family: var(--tipo-titular);
-  font-size: 3.5em;
+  font-size: 2em;
 }
 
 .seccion .p {
